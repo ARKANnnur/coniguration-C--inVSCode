@@ -1,0 +1,5 @@
+CARA BUAT FILE COMPILE
+g++ test.cpp -o test
+
+RUNNINGNYA
+namaFile.exe
